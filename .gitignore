@@ -9,7 +9,7 @@ target/
 .project
 .settings/
 .idea/
-.vscode/.history/
+.vscode/
 
 # OS and logs
 .DS_Store
