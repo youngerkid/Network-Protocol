@@ -1,0 +1,20 @@
+# Maven build output
+target/
+**/target/
+
+# Java and IDE files
+*.class
+*.iml
+.classpath
+.project
+.settings/
+.idea/
+.vscode/.history/
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Generated tool logs
+demo/.github/java-upgrade/*/logs/
